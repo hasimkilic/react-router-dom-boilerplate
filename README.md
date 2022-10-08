@@ -1,7 +1,3 @@
-### -Bu proje react-router-dom öğrenmek için yaptığım mini navbar projesidir. 
-### -Projede **useState,props,useEffect,Json-server (FakeApi),React-Router-Dom(Router,Routes,Route,Link)** konularını kullanarak pekiştirdim.
-
----
 
 # Getting Started with Create React App
 
